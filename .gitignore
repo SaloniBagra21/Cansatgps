@@ -1,0 +1,9 @@
+# Build output
+Debug/
+Release/
+
+# IDE junk
+.settings/
+.metadata/
+*.launch
+*.log
